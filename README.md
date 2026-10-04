@@ -6,3 +6,5 @@ I got tired of losing good prompts when OpenAI's UI changes or threads get burie
 
 pip install -r requirements.txt
 
+
+<!-- last-checked: 2026-10-04 -->
